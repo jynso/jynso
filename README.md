@@ -1,4 +1,8 @@
-### Hi there 👋
+### Yo
+
+I am a IT student hoping to learn useful skills in my time in university. My github page is empty as of the moment but slowly, I will fill this up as I create and work on projects related to my course. Think of it as a journal, to document the projects I've worked on in my time as a student.
+
+
 
 <!--
 **jynso/jynso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
